@@ -1,9 +1,9 @@
 class Faster < Formula
   desc "Chat-first terminal client for a Faster box"
   homepage "https://github.com/FasterHQ/faster-console"
-  url "https://github.com/FasterHQ/homebrew-tap/releases/download/faster-v0.0.46/faster-0.0.46-macos-universal.tar.gz"
-  sha256 "b3683a0b01c24c11d2c00130458616f7163bf6d225be912c17de309935186a8b"
-  version "0.0.46"
+  url "https://github.com/FasterHQ/homebrew-tap/releases/download/faster-v0.0.47/faster-0.0.47-macos-universal.tar.gz"
+  sha256 "f850fd63854b753e1a9fdc119138475ac58a90beab3a432e025c6c1e72843969"
+  version "0.0.47"
 
   def install
     bin.install "faster"
